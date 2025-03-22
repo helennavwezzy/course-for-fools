@@ -1,4 +1,4 @@
-components-new/
+components/
   - SubmitButton.js
   - header.js
   - problems.js
